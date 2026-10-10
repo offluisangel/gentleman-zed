@@ -144,7 +144,7 @@
           "punctuation.delimiter": { "color": "#A78E9B" },
           "punctuation.list_marker": { "color": "#D7A0B8" },
           "punctuation.special": { "color": "#F095C8" },
-          "string": { "color": "#B4E7C7" },
+          "string": { "color": "#FF714B" },
           "string.escape": { "color": "#F2B86D" },
           "string.regex": { "color": "#B4E7C7" },
           "string.special": { "color": "#B4E7C7" },

@@ -1,6 +1,6 @@
 id = "gentleman-theme"
 name = "Gentleman"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["offluisangel"]
 description = "gentle-ai theme for zed"
